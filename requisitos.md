@@ -20,6 +20,8 @@ As partes envolvidas neste levantamento são representadas pelo Comandante da Gu
 
 - O sistema deve fornecer opção de backup dos dados cadastrados.
 
+- O sistema deve adotar um sistema de banco de dados.
+
 
 ## 2 Requisitos Não-Funcionais
 
