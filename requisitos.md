@@ -14,6 +14,8 @@ As partes envolvidas neste levantamento são representadas pelo Comandante da Gu
 
 - O sistema deve possibilitar a alteração dos formulários por parte do usuário.
 
+- O sistema deve controlar automaticamente os número de identificação de cada formulário.
+
 - O sistema deve validar os dados cadastrados.
 
 - O sistema deve garantir a padronização dos dados cadastrados.
