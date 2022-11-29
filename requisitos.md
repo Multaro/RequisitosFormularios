@@ -34,7 +34,7 @@ As partes envolvidas neste levantamento são representadas pelo Comandante da Gu
 
 Por lidar com dados importantes, é fundamental que o sistema esteja o menos exposto possível a usuários que não participam da segurança pública, além de vetar quaisquer tentativas de invasão. 
 
-Como resultado, uma arquitetura distorcida foi aplicada ao sistema.
+Como resultado, uma arquitetura sem distribuição da camada de interface foi aplicada ao sistema.
 
 
 ### Referências
